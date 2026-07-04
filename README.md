@@ -42,3 +42,7 @@ A deep dive into the raw JSON logs validates the automated SOAR capabilities of 
 
 ## Conclusion
 This lab demonstrates practical knowledge of log ingestion, threat detection, and incident response using an enterprise-grade SIEM. For full details, check the attached PDF document in this repository.
+
+### 📄 Detailed Project Documentation
+For a complete step-by-step breakdown, architecture details, and full configuration settings, please refer to the project report:
+[Download/View the Full Project PDF Here](WAZUH-PROJECT-DOCUMENTATION-STRUCTURE.pdf)
